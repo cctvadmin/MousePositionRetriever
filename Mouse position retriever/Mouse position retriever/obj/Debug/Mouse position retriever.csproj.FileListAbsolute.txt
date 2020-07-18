@@ -1,0 +1,10 @@
+F:\Mouse position retriever\Mouse position retriever\obj\Debug\Mouse position retriever.csprojAssemblyReference.cache
+F:\Mouse position retriever\Mouse position retriever\obj\Debug\Mouse_position_retriever.Properties.Resources.resources
+F:\Mouse position retriever\Mouse position retriever\obj\Debug\Mouse position retriever.csproj.GenerateResource.cache
+F:\Mouse position retriever\Mouse position retriever\obj\Debug\Mouse position retriever.csproj.CoreCompileInputs.cache
+F:\Mouse position retriever\Mouse position retriever\bin\Debug\CACode Mouse position retriever.exe.config
+F:\Mouse position retriever\Mouse position retriever\bin\Debug\CACode Mouse position retriever.exe
+F:\Mouse position retriever\Mouse position retriever\bin\Debug\CACode Mouse position retriever.pdb
+F:\Mouse position retriever\Mouse position retriever\obj\Debug\CACode Mouse position retriever.exe
+F:\Mouse position retriever\Mouse position retriever\obj\Debug\CACode Mouse position retriever.pdb
+F:\Mouse position retriever\Mouse position retriever\obj\Debug\Mouse_position_retriever.CACodeMousePosition.resources
